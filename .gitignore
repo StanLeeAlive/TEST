@@ -1,1 +1,23 @@
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
 
+# Файлы IDE (Visual Studio Code, JetBrains и др.)
+.vscode/
+.idea/
+
+# Системные файлы (macOS)
+.DS_Store
+
+# Зависимости (Node.js, Python и др.)
+node_modules/
+__pycache__/
+venv/
+*.pyc
+
+# Скомпилированные бинарные файлы
+*.exe
+*.dll
+*.so
+*.out
